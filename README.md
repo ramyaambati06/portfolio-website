@@ -8,4 +8,5 @@
 
 • Deployed the website using netlify.
 
-Live Demo: [Portfolio Link]
+Live Demo: https://portfolio-website-alpha-puce-30.vercel.app/
+
